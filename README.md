@@ -1,4 +1,4 @@
-# PromptUltimate
+# [PromptUltimate](https://github.com/1mpactin6/PromptUltimate)
 
  A project developing GPT LLM Prompts
 
