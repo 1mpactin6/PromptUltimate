@@ -1,4 +1,4 @@
-# [PromptUltimate](https://github.com/1mpactin6/PromptUltimate)
+# [PromptUltimate](https://github.com/1mpactin6/PromptUltimate) 📝
 
  A project developing GPT LLM Prompts
 
@@ -72,7 +72,17 @@ bought 6 more apples, so they have 3 + 6 = 9.The
 answer is 9." (Better)
 ```
 
-## [Academic Prompts](main/Academic%20Prompts/)
+## Prompt Engineering
+
+Prompt Engineering is the ability of creating prompts that maximizes the effectiveness of LLMs, ensuring that the response is both accurate and relevant to the user's needs. Prompt engineering is a key aspect the correct and efficient usage of LLMs.
+
+## Prompting
+
+To create good prompts regarding to your specific desired outputs, consider think as how you want the Model (or LLM) to think. For stuff about Note, ask it to generate information regarding in Visualization and Structure, while in Note/Bullet form. If you want the Model to enhance your text, try asking it to "Enhance clarity", "Reconsider overall structure overflow", and "Redetermined the usage of transitions."
+
+## Quick Access Links
+
+### [Academic Prompts](main/Academic%20Prompts/)
 
  - [Data Analyzation Prompts](main/Academic%20Prompts/Data%20Analyzation%20Prompts.md/)
 
@@ -84,7 +94,7 @@ answer is 9." (Better)
 
  - [Writing Enhancement Prompts](main/Academic%20Prompts/Writing%20Enhancement%20Prompts.md/)
 
-## [Poe Prompts](main/Poe%20Prompts/)
+### [Poe Prompts](main/Poe%20Prompts/)
 
  - [EnhancedGemini](main/Poe%20Prompts/EnhancedGemini.md)
 
@@ -97,11 +107,3 @@ answer is 9." (Better)
  - [OptimizedNoteAI](main/Poe%20Prompts/OptimizedNoteAI.md)
 
  - [PromptUltimate](main/Poe%20Prompts/PromptUltimate.md)
-
-## Prompt Engineering
-
-Prompt Engineering is the ability of creating prompts that maximizes the effectiveness of LLMs, ensuring that the response is both accurate and relevant to the user's needs. Prompt engineering is a key aspect the correct and efficient usage of LLMs.
-
-## Prompting
-
-To create good prompts regarding to your specific desired outputs, consider think as how you want the Model (or LLM) to think. For stuff about Note, ask it to generate information regarding in Visualization and Structure, while in Note/Bullet form. If you want the Model to enhance your text, try asking it to "Enhance carity", "Reconsider overall structure overflow", and "Redetermined the usage of transitions."
