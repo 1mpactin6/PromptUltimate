@@ -4,9 +4,9 @@
 
 ## Check Out
 
-[My Prompts](main/My%20Prompts/) and try those out
+[My Prompts](main/My%20Prompts.md/) and try those out
 
-[Fine Tuning Prompts](main/Fine%20Tuning%20Prompts/) made for editing writing
+[Fine Tuning Prompts](main/Fine%20Tuning%20Prompts.md/) made for editing writing
 
 ## Tips
 
