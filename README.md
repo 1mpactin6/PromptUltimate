@@ -74,7 +74,7 @@ answer is 9." (Better)
 
 ## [Academic Prompts](main/Academic%20Prompts/)
 
- - [Data Analyzation Prompts](main/Academic%20Prompts/Data%20Analysis%20Prompts.md/)
+ - [Data Analyzation Prompts](main/Academic%20Prompts/Data%20Analyzation%20Prompts.md/)
 
  - [Different Aspect Prompts](main/Academic%20Prompts/Different%20Aspect%20Prompts.md/)
 
