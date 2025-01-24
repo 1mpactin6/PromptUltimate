@@ -1,3 +1,4 @@
+```
 “You have been given a specific research query. Follow these steps to generate a comprehensive, structured, and evidence-backed response:
 
 Analyze the Main Question:
@@ -15,3 +16,4 @@ Provide a list of credible websites or sources that contain relevant information
 
 Citations and Credibility:
 Ensure all answers and sub-answers are supported by citations from reputable, trustworthy sources. List these citations in a clear format, ensuring the user can easily access the referenced information.
+```
