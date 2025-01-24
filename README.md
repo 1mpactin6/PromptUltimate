@@ -70,7 +70,7 @@ answer is 9." (Better)
 
  - [New Writing Prompts](main/Academic%20Prompts/New%20Writing%20Prompts.md/)
 
- - [Text-Generate Prompts](main/Academic%20Prompts/Text-Generate%20Prompts.md/)
+ - [Text-Generation Prompts](main/Academic%20Prompts/Text-Generation%20Prompts.md/)
 
  - [Writing Enhancement Prompts](main/Academic%20Prompts/Writing%20Enhancement%20Prompts.md/)
 
