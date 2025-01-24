@@ -8,6 +8,60 @@
 
 [Fine Tuning Prompts](main/Fine%20Tuning%20Prompts/) made for editing writing
 
+## Tips
+
+### Reliability is key when using LLMs for writing, so make sure to test and refine your prompts:
+
+ - Give clearer instructions
+ - Split complex tasks into simpler subtasks
+ - Structure the instruction to keep the model on task
+ - Prompt the model to explain before answering
+ - Ask for justifications of many possible answers, and then synthesize
+ - Generate many outputs, and then use the model to pick the best one
+ - Fine-tune custom models to maximize performance
+
+### Instead of Standard Prompting try do 'Chain of Thought' prompting:
+
+#### Standard Prompting:
+
+Input:
+
+"Q: Roger has 5 tennis balls. He buys 2 more cans of
+tennis balls.Each can has 3 tennis balls. How many
+tennis balls does he have now?
+
+A: The answer is 11.
+
+Q: The cafeteria had 23 apples. If they used 20 to
+make lunch and bought 6 more, how many apples
+do they have?"
+
+Model Output:
+
+"A:The answer is 27." (Wrong)
+
+#### Chain of Thought Prompting:
+
+Input:
+
+"Q: Roger has 5 tennis balls. He buys 2 more cans of
+tennis balls.Each can has 3 tennis balls. How many
+tennis balls does he have now?
+
+A: Roger started with 5 balls. 2 cans of 3 tennis balls
+each is 6 tennis balls. 5 + 6 = 11.The answer is 11.
+
+Q:The cafeteria had 23 apples. If they used 20 to
+make lunch and bought 6 more, how many apples
+do they have?"
+
+Model Output:
+
+"A:The cafeteria had 23 apples originally. They used
+20 to make lunch. So they had 23 - 20 = 3. They
+bought 6 more apples, so they have 3 + 6 = 9.The
+answer is 9." (Better)
+
 ## [Academic Prompts](main/Academic%20Prompts/)
 
  - [Data Analyzation Prompts](main/Academic%20Prompts/Data%20Analysis%20Prompts/)
