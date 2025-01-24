@@ -2,6 +2,12 @@
 
  A project developing GPT LLM Prompts
 
+## Check Out
+
+[My Prompts](main/My%20Prompts/) and try those out
+
+[Fine Tuning Prompts](main/Fine%20Tuning%20Prompts/) made for editing writing
+
 ## [Academic Prompts](main/Academic%20Prompts/)
 
  - [Data Analyzation Prompts](main/Academic%20Prompts/Data%20Analysis%20Prompts/)
