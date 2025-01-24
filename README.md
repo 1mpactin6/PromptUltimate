@@ -4,7 +4,7 @@
 
 ## Check Out
 
-[My Prompts](main/My%20Prompts.md/) and try those out
+[My Prompts](main/MyPrompts.md/) and try those out
 
 [Fine Tuning Prompts](main/Fine%20Tuning%20Prompts.md/) made for editing writing
 
@@ -62,19 +62,19 @@ Model Output:
 bought 6 more apples, so they have 3 + 6 = 9.The
 answer is 9." (Better)
 
-## [Academic Prompts](main/Academic%20Prompts/)
+## [Academic Prompts](main/Academic%20Prompts.md/)
 
- - [Data Analyzation Prompts](main/Academic%20Prompts/Data%20Analysis%20Prompts/)
+ - [Data Analyzation Prompts](main/Academic%20Prompts/Data%20Analysis%20Prompts.md/)
 
- - [Different Aspect Prompts](main/Academic%20Prompts/Different%20Aspect%20Prompts/)
+ - [Different Aspect Prompts](main/Academic%20Prompts/Different%20Aspect%20Prompts.md/)
 
- - [New Writing Prompts](main/Academic%20Prompts/New%20Writing%20Prompts/)
+ - [New Writing Prompts](main/Academic%20Prompts/New%20Writing%20Prompts.md/)
 
- - [Text-Generate Prompts](main/Academic%20Prompts/Text-Generate%20Prompts/)
+ - [Text-Generate Prompts](main/Academic%20Prompts/Text-Generate%20Prompts.md/)
 
- - [Writing Enhancement Prompts](main/Academic%20Prompts/Writing%20Enhancement%20Prompts/)
+ - [Writing Enhancement Prompts](main/Academic%20Prompts/Writing%20Enhancement%20Prompts.md/)
 
-## [Poe Prompts](main/Poe%20Prompts/)
+## [Poe Prompts](main/Poe%20Prompts.md/)
 
  - [EnhancedGemini](main/Poe%20Prompts/EnhancedGemini.md)
 
