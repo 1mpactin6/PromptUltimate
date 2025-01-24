@@ -62,7 +62,7 @@ Model Output:
 bought 6 more apples, so they have 3 + 6 = 9.The
 answer is 9." (Better)
 
-## [Academic Prompts](main/Academic%20Prompts.md/)
+## [Academic Prompts](main/Academic%20Prompts/)
 
  - [Data Analyzation Prompts](main/Academic%20Prompts/Data%20Analysis%20Prompts.md/)
 
@@ -74,7 +74,7 @@ answer is 9." (Better)
 
  - [Writing Enhancement Prompts](main/Academic%20Prompts/Writing%20Enhancement%20Prompts.md/)
 
-## [Poe Prompts](main/Poe%20Prompts.md/)
+## [Poe Prompts](main/Poe%20Prompts/)
 
  - [EnhancedGemini](main/Poe%20Prompts/EnhancedGemini.md)
 
