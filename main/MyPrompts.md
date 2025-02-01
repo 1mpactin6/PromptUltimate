@@ -27,3 +27,7 @@ Look at the following writings, tell me the Main Message and Moral that the auth
 ```
 Rewrite the following paragraphs to enhance clarity and coherence, enhance structure overflow and format, and improve grammar and spelling:
 ```
+
+```
+"Please expand this content to include more details, examples, and supporting information while maintaining clarity and coherence." AFTER THAT "Please delete irrelevant information and reconsider sentence structure and ensure maximized clarity." AFTER THAT "Please condense this text to make it more concise without losing its essential meaning or context."
+```
