@@ -107,3 +107,5 @@ To create good prompts regarding to your specific desired outputs, consider thin
  - [OptimizedNoteAI](main/Poe%20Prompts/OptimizedNoteAI.md)
 
  - [PromptUltimate](main/Poe%20Prompts/PromptUltimate.md)
+
+ - [PromptEngineerer](main/Poe%20Prompts/PromptEngineerer.md)
