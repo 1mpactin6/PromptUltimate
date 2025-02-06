@@ -112,6 +112,6 @@ Other Prompt Shorcuts won't be update, please go to [Academic Prompts](main/Acad
 
  - [PromptEngineerer](main/Poe%20Prompts/PromptEngineerer.md)
 
- - [DeepLogic](main/Poe%20Prompts/DeepLogic.md)
+ - [DeepLogic Ultimate Version](main/Poe%20Prompts/DeepLogic-R3.md)
 
 Other Prompt Shorcuts won't be update, please go to [Poe Prompts](main/Poe%20Prompts/).
