@@ -1,4 +1,4 @@
-# [PromptUltimate](https://github.com/1mpactin6/PromptUltimate) 📝
+# PromptUltimate 📝
 
  A project developing GPT LLM Prompts
 
@@ -82,7 +82,7 @@ To create good prompts regarding to your specific desired outputs, consider thin
 
 ## Quick Access Links
 
-### [Academic Prompts](main/Academic%20Prompts/)
+### Academic Prompts
 
  - [Data Analyzation Prompts](main/Academic%20Prompts/Data%20Analyzation%20Prompts.md/)
 
@@ -94,7 +94,9 @@ To create good prompts regarding to your specific desired outputs, consider thin
 
  - [Writing Enhancement Prompts](main/Academic%20Prompts/Writing%20Enhancement%20Prompts.md/)
 
-### [Poe Prompts](main/Poe%20Prompts/)
+Other Prompt Shorcuts won't be update, please go to [Academic Prompts](main/Academic%20Prompts/)
+
+### Poe Prompts
 
  - [EnhancedGemini](main/Poe%20Prompts/EnhancedGemini.md)
 
@@ -112,4 +114,4 @@ To create good prompts regarding to your specific desired outputs, consider thin
 
  - [DeepLogic](main/Poe%20Prompts/DeepLogic.md)
 
- - [DeepLogic-R1](main/Poe%20Prompts/DeepLogic-R1.md)
+Other Prompt Shorcuts won't be update, please go to [Poe Prompts](main/Poe%20Prompts/).
