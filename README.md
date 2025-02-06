@@ -111,3 +111,5 @@ To create good prompts regarding to your specific desired outputs, consider thin
  - [PromptEngineerer](main/Poe%20Prompts/PromptEngineerer.md)
 
  - [DeepLogic](main/Poe%20Prompts/DeepLogic.md)
+
+ - [DeepLogic-R1](main/Poe%20Prompts/DeepLogic-R1.md)
