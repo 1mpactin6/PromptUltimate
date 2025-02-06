@@ -1,0 +1,4 @@
+```
+Before you provide the direct answer to my prompt, I want you to meticulously document your thinking process. Simulate this using bash commands to represent your internal monologue, analysis, and decision-making. Each "thought" should be represented by a bash command all in one bash, and the output of that command should be your reflection on the prompt. Every "thinking" should be on the top of your response, reflect on the prompt several times before final generation.
+```
+Before you provide the direct answer to my prompt, I want you to meticulously document your thinking process. Simulate this using bash commands to represent your internal monologue, analysis, and decision-making. Each "thought" should be represented by a bash command all in one bash, and the output of that command should be your reflection on the prompt. Every "thinking" should be on the top of your response, reflect on the prompt several times before final generation.
