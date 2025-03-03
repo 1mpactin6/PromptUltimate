@@ -16,13 +16,33 @@ We are extremely excited to showcase our newest discovery. Humans can be trained
 
 Let's say you want to learn how to create POIs in MUN (or any topic), use the following prompt.
 
->``` Generate some questions for me to learn about (topic) ```
+> ``` Generate some questions for me to learn about (topic) ```
 
->``` This is my solution, please check it and teach me how to make it better (or improve): ```
+> ``` This is my solution, please check it and teach me how to make it better (or improve): ```
 
->``` Can you give me new questions to answer, so you can check it again ```
+> ``` Can you give me new questions to answer, so you can check it again ```
 
 By repeating the prcess of doing the questions, you will eventually be trained like a LLM, and be extremely familiar with the topic!
+
+## Prompting Strategies
+
+Mostly for RAG prompt, we seperate the prompts into several categories, which can include the following sections:
+
+> Role: A name for the LLM that can be easily understood by the LLM
+
+> Instructions: Requirements for the LLM to provide
+
+> Constrains: Word count requirements and structure
+
+> Tone: How the LLM should respond (e.g. Formal, Casual, or Professional)
+
+> Example/Expectation: Provide an example user prompt and response
+
+## Learning Like LLMs
+
+1. Information Training: ask the LLM to give you questions regarding to the topic, answer them, let the LLM check for potential improvements, how to improve, and give more questions
+
+2. 
 
 ## Tips
 
