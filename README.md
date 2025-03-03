@@ -1,6 +1,8 @@
 # PromptUltimate 📝
 
- A project developing GPT LLM Prompts
+---
+
+``` A repository of Prompt Engineering Guides for LLMs (Large Language Model, aka Aritifial Intelligence) ```
 
 ## Check Out
 
@@ -8,7 +10,23 @@
 
 [Fine Tuning Prompts](main/Fine%20Tuning%20Prompts.md/) made for editing writing
 
+## Latest Discovery
+
+We are extremely excited to showcase our newest discovery. Humans can be trained like LLMs.
+
+Let's say you want to learn how to create POIs in MUN (or any topic), use the following prompt.
+
+>``` Generate some questions for me to learn about (topic) ```
+
+>``` This is my solution, please check it and teach me how to make it better (or improve): ```
+
+>``` Can you give me new questions to answer, so you can check it again ```
+
+By repeating the prcess of doing the questions, you will eventually be trained like a LLM, and be extremely familiar with the topic!
+
 ## Tips
+
+---
 
 ### Reliability is key when using LLMs for writing, so make sure to test and refine your prompts:
 
@@ -74,11 +92,11 @@ answer is 9." (Better)
 
 ## Prompt Engineering
 
-Prompt Engineering is the ability of creating prompts that maximizes the effectiveness of LLMs, ensuring that the response is both accurate and relevant to the user's needs. Prompt engineering is a key aspect the correct and efficient usage of LLMs.
+>Prompt Engineering is the ability of creating prompts that maximizes the effectiveness of LLMs, ensuring that the response is both accurate and relevant to the user's needs. Prompt engineering is a key aspect the correct and efficient usage of LLMs.
 
 ## Prompting
 
-To create good prompts regarding to your specific desired outputs, consider think as how you want the Model (or LLM) to think. For stuff about Note, ask it to generate information regarding in Visualization and Structure, while in Note/Bullet form. If you want the Model to enhance your text, try asking it to "Enhance clarity", "Reconsider overall structure overflow", and "Redetermined the usage of transitions."
+>To create good prompts regarding to your specific desired outputs, consider think as how you want the Model (or LLM) to think. For stuff about Note, ask it to generate information regarding in Visualization and Structure, while in Note/Bullet form. If you want the Model to enhance your text, try asking it to "Enhance clarity", "Reconsider overall structure overflow", and "Redetermined the usage of transitions."
 
 ## Quick Access Links
 
