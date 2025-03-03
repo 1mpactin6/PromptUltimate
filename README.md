@@ -52,7 +52,9 @@ Mostly for RAG prompt, we seperate the prompts into several categories, which ca
 
 1. Information Training: ask the LLM to give you questions regarding to the topic, answer them, let the LLM check for potential improvements, how to improve, and give more questions
 
-2. 
+2. Example Learning: ask the LLM to provide repeated examples for the topic, look at them, especially for vocabularies and relevant examples/knowledge, by repeating this process you will be able to have a large range of knowledge in this topic
+
+3. 
 
 ## Tips
 
