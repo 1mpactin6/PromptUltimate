@@ -10,6 +10,16 @@
 
 [Fine Tuning Prompts](main/Fine%20Tuning%20Prompts.md/) made for editing writing
 
+Also check out our featured prompts:
+
+[Fine Tuning Prompts -DeepSeek](main/PromptTemplates(DeepThink-1).md)
+
+> These prompts are created by DeepSeek-R1
+
+[Best Text Analyzer Prompts](main/CherryStudioPrompts/Analyzers-202503.md)
+
+> These prompt are created by Grok-3, further edited by me
+
 ## Latest Discovery
 
 We are extremely excited to showcase our newest discovery. Humans can be trained like LLMs.
