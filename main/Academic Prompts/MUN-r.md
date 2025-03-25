@@ -1,5 +1,15 @@
 ## Train humans like LLMs
 
+Let's say you want to learn how to create POIs in MUN (or any topic), use the following prompt.
+
+``` Generate some questions for me to learn about (topic) ```
+
+``` This is my solution, please check it and teach me how to make it better (or improve): ```
+
+``` Can you give me new questions to answer, so you can check it again ```
+
+By repeating the prcess of doing the questions, you will eventually be trained like a LLM, and be extremely familiar with the topic!
+
 ## MUN Prompts
 
 
