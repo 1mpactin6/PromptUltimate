@@ -34,3 +34,10 @@ Input PromptGenius and PromptUltimate to get optimized prompts 9compare it0
 *Using English generate questions that challenges, the resolution integrity, and overall effectiveness, don’t use personal pronouns use delegate making it MUN POI formatted*
 
 ## Use AI to teach yourself
+
+I used the following prompt to let AI test my potentials for the a Topic:
+
+> analyze the following topics for a Model UN, give me the evaluation of the difficulties and overall area of strength recommendation:
+
+> Ask me questions about the given topic of: [Topic]
+> To check the potential ability of me in this topic, and if or not I should try it
