@@ -22,17 +22,9 @@ Also check out our featured prompts:
 
 ## Latest Discovery
 
-We are extremely excited to showcase our newest discovery. Humans can be trained like LLMs.
+MUN Training, Learning Prompts: [here](main/Academic%20Prompts/MUN-r.md)
 
-Let's say you want to learn how to create POIs in MUN (or any topic), use the following prompt.
-
-> Generate some questions for me to learn about (topic)
-
-> This is my solution, please check it and teach me how to make it better (or improve):
-
-> Can you give me new questions to answer, so you can check it again
-
-By repeating the prcess of doing the questions, you will eventually be trained like a LLM, and be extremely familiar with the topic!
+Includes information about using AI for Model United Nations, and how to quickly learning something about your MUN Topic using AI. ("Train humans like LLMs" "MUN Prompts" "Use AI to teach yourself")
 
 ## Prompting Strategies
 
